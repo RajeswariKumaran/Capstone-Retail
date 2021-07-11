@@ -11,7 +11,7 @@ Dataset Snapshot
 Training Data Description: Historic sales at Store-Day level for about two years for a retail giant, for more than 1000 stores. Also, other sale influencers like, whether on a particular day the store was fully open or closed for renovation, holiday and special event details, are also provided. 
 
  
-
+<img src=”1566547170_cap 3.png">
 
 
 Project Task: Week 1
