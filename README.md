@@ -1,4 +1,4 @@
-# Capstone-Retail
+# Retail-Demand Forecasting
 
 DESCRIPTION
 
@@ -15,9 +15,7 @@ Training Data Description: Historic sales at Store-Day level for about two years
 
 
 
-Project Task: Week 1
-
-Exploratory Data Analysis (EDA) and Linear Regression:
+I. Exploratory Data Analysis (EDA) and Linear Regression:
 
 1.      Transform the variables by using data manipulation techniques like, One-Hot Encoding 
 2.      Perform an EDA (Exploratory Data Analysis) to see the impact of variables over Sales.
@@ -30,9 +28,7 @@ Exploratory Data Analysis (EDA) and Linear Regression:
          e)      Use Regularized Regression. It should perform better in an unseen test set. Any insights??
          f)      Open-ended modeling to get possible predictions.
 
-Project Task: Week 2
-
-Other Regression Techniques:
+II. Other Regression Techniques:
 
 1. When store is closed, sales = 0. Can this insight be used for Data Cleaning? Perform this and retrain the model. Any benefits of this step?
 2. Use Non-Linear Regressors like Random Forest or other Tree-based Regressors.
@@ -45,9 +41,7 @@ Other Regression Techniques:
        a)    Identify yearly trends and seasonal months
  
 
-Project Task: Week 3
-
-Implementing Neural Networks:
+III. Implementing Neural Networks:
 
 Train a LSTM on the same set of features and compare the result with traditional time-series model.
 Comment on the behavior of all the models you have built so far
